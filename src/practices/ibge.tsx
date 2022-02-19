@@ -7,7 +7,7 @@ interface DatasIbge{
 }
 
 interface DatasIbgeCitys{
-    id: number;
+    id: number; 
     nome: string;
 }
 
